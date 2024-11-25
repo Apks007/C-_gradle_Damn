@@ -1,0 +1,3 @@
+p1@R-i4J?E"HEr-Y
+chmod +x sast_scan.sh && ./sast_scan.sh
+chmod +x sca_scan.sh && ./sca_scan.sh
